@@ -1,5 +1,5 @@
 # calculator with HTML and CSS
-# Author @trimooo0
+# Author @trimooo
 
 MIT License
 
